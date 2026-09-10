@@ -1,0 +1,5 @@
+1,Laptop,10,10-Sep-26 4:16:16 PM
+2,Printer,5,10-Sep-26 4:16:16 PM
+3,Mouse,20,10-Sep-26 4:16:16 PM
+4,Keyboard,15,10-Sep-26 4:16:16 PM
+5,Scanner,8,10-Sep-26 4:16:16 PM

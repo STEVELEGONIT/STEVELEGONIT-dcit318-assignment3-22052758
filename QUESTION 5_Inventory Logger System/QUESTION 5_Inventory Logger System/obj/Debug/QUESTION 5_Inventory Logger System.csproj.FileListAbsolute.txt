@@ -1,0 +1,7 @@
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\obj\Debug\QUESTION 5_Inventory Logger System.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\obj\Debug\QUESTION 5_Inventory Logger System.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\bin\Debug\QUESTION 5_Inventory Logger System.exe.config
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\bin\Debug\QUESTION 5_Inventory Logger System.exe
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\bin\Debug\QUESTION 5_Inventory Logger System.pdb
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\obj\Debug\QUESTION 5_Inventory Logger System.exe
+C:\Users\s\source\repos\QUESTION 5_Inventory Logger System\QUESTION 5_Inventory Logger System\obj\Debug\QUESTION 5_Inventory Logger System.pdb
