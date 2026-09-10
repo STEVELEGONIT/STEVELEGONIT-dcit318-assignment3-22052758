@@ -1,0 +1,7 @@
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\obj\Debug\QUESTION 2_Healthcare System.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\obj\Debug\QUESTION 2_Healthcare System.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\bin\Debug\QUESTION 2_Healthcare System.exe.config
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\bin\Debug\QUESTION 2_Healthcare System.exe
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\bin\Debug\QUESTION 2_Healthcare System.pdb
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\obj\Debug\QUESTION 2_Healthcare System.exe
+C:\Users\s\source\repos\QUESTION 2_Healthcare System\QUESTION 2_Healthcare System\obj\Debug\QUESTION 2_Healthcare System.pdb
