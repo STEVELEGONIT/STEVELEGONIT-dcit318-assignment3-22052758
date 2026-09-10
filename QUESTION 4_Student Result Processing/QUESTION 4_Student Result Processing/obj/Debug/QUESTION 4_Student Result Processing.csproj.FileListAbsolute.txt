@@ -1,0 +1,8 @@
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\obj\Debug\QUESTION 4_Student Result Processing.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\obj\Debug\QUESTION 4_Student Result Processing.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\bin\Debug\QUESTION 4_Student Result Processing.exe.config
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\bin\Debug\QUESTION 4_Student Result Processing.exe
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\bin\Debug\QUESTION 4_Student Result Processing.pdb
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\obj\Debug\QUESTION 4_Student Result Processing.exe
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\obj\Debug\QUESTION 4_Student Result Processing.pdb
+C:\Users\s\source\repos\QUESTION 4_Student Result Processing\QUESTION 4_Student Result Processing\obj\Debug\QUESTION 4_Student Result Processing.exe.config
