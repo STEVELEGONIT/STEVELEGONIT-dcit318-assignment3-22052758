@@ -1,0 +1,7 @@
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\obj\Debug\QUESTION 3_Warehouse Inventory System.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\obj\Debug\QUESTION 3_Warehouse Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\bin\Debug\QUESTION 3_Warehouse Inventory System.exe.config
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\bin\Debug\QUESTION 3_Warehouse Inventory System.exe
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\bin\Debug\QUESTION 3_Warehouse Inventory System.pdb
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\obj\Debug\QUESTION 3_Warehouse Inventory System.exe
+C:\Users\s\source\repos\QUESTION 3_Warehouse Inventory System\QUESTION 3_Warehouse Inventory System\obj\Debug\QUESTION 3_Warehouse Inventory System.pdb

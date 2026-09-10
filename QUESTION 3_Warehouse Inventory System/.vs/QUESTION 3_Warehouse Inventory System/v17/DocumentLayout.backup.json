@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s\\source\\repos\\QUESTION 3_Warehouse Inventory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4457D110-9EC9-47E3-9DDE-75F8F9FE9262}|QUESTION 3_Warehouse Inventory System\\QUESTION 3_Warehouse Inventory System.csproj|c:\\users\\s\\source\\repos\\question 3_warehouse inventory system\\question 3_warehouse inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4457D110-9EC9-47E3-9DDE-75F8F9FE9262}|QUESTION 3_Warehouse Inventory System\\QUESTION 3_Warehouse Inventory System.csproj|solutionrelative:question 3_warehouse inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s\\source\\repos\\QUESTION 3_Warehouse Inventory System\\QUESTION 3_Warehouse Inventory System\\Program.cs",
+              "RelativeDocumentMoniker": "QUESTION 3_Warehouse Inventory System\\Program.cs",
+              "ToolTip": "C:\\Users\\s\\source\\repos\\QUESTION 3_Warehouse Inventory System\\QUESTION 3_Warehouse Inventory System\\Program.cs",
+              "RelativeToolTip": "QUESTION 3_Warehouse Inventory System\\Program.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAM8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T15:19:28.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

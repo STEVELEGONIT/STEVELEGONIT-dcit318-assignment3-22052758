@@ -1,0 +1,112 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace WarehouseSystem
+{
+    public interface IInventoryItem
+    {
+        int Id { get; }
+        string Name { get; }
+        int Quantity { get; set; }
+    }
+
+    public class ElectronicItem : IInventoryItem
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Quantity { get; set; }
+        public string Brand { get; set; }
+        public int WarrantyMonths { get; set; }
+
+        public ElectronicItem(
+            int id,
+            string name,
+            int quantity,
+            string brand,
+            int warrantyMonths)
+        {
+            Id = id;
+            Name = name;
+            Quantity = quantity;
+            Brand = brand;
+            WarrantyMonths = warrantyMonths;
+        }
+    }
+
+    public class GroceryItem : IInventoryItem
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Quantity { get; set; }
+        public DateTime ExpiryDate { get; set; }
+
+        public GroceryItem(
+            int id,
+            string name,
+            int quantity,
+            DateTime expiryDate)
+        {
+            Id = id;
+            Name = name;
+            Quantity = quantity;
+            ExpiryDate = expiryDate;
+        }
+    }
+
+    // Custom Exceptions
+    public class DuplicateItemException : Exception
+    {
+        public DuplicateItemException(string msg) : base(msg) { }
+    }
+
+    public class ItemNotFoundException : Exception
+    {
+        public ItemNotFoundException(string msg) : base(msg) { }
+    }
+
+    public class InvalidQuantityException : Exception
+    {
+        public InvalidQuantityException(string msg) : base(msg) { }
+    }
+
+    public class InventoryRepository<T>
+        where T : IInventoryItem
+    {
+        private readonly Dictionary<int, T> _items = new Dictionary<int, T>();
+
+        public void AddItem(T item)
+        {
+            if (_items.ContainsKey(item.Id))
+                throw new DuplicateItemException("Duplicate ID");
+
+            _items.Add(item.Id, item);
+        }
+
+        public T GetItemById(int id)
+        {
+            if (!_items.ContainsKey(id))
+                throw new ItemNotFoundException("Item not found");
+
+            return _items[id];
+        }
+
+        public void RemoveItem(int id)
+        {
+            if (!_items.Remove(id))
+                throw new ItemNotFoundException("Item not found");
+        }
+
+        public List<T> GetAllItems()
+        {
+            return new List<T>(_items.Values);
+        }
+
+        public void UpdateQuantity(int id, int quantity)
+        {
+            if (quantity < 0)
+                throw new InvalidQuantityException("Quantity cannot be negative");
+
+            GetItemById(id).Quantity = quantity;
+        }
+    }
+}
