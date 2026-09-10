@@ -1,0 +1,7 @@
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\obj\Debug\QUESTION 1_Finance Management System.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\obj\Debug\QUESTION 1_Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\bin\Debug\QUESTION 1_Finance Management System.exe.config
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\bin\Debug\QUESTION 1_Finance Management System.exe
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\bin\Debug\QUESTION 1_Finance Management System.pdb
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\obj\Debug\QUESTION 1_Finance Management System.exe
+C:\Users\s\source\repos\QUESTION 1_Finance Management System\QUESTION 1_Finance Management System\obj\Debug\QUESTION 1_Finance Management System.pdb
